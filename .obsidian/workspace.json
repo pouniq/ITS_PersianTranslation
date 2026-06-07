@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "29ddc5b9e43ac35d",
@@ -205,11 +206,11 @@
   },
   "active": "f1f8c085bb749986",
   "lastOpenFiles": [
+    "Original Book/IntroductionToStatistics.pdf",
+    "Chapter14-Regression/README.md",
     "Screenshot 1405-03-06 at 20.53.38.png",
     "Chapter14-Regression/imgs/Table2-part.png",
     "Chapter14-Regression/imgs/Table3-part.png",
-    "Chapter14-Regression/README.md",
-    "Original Book/IntroductionToStatistics.pdf",
     "Chapter14-Regression/imgs/Table1-mR.png",
     "Screenshot 1405-03-06 at 20.53.25.png",
     "Contribution.md",

@@ -41,3 +41,4 @@ git clone https://github.com/pouniq/ITS_PersianTranslation.git
 ## مرحله چهارم:
 بعد از اتمام ترجمه pull request بزنید.
 
+

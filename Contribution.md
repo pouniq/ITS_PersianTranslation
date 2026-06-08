@@ -33,3 +33,10 @@ git clone https://github.com/pouniq/ITS_PersianTranslation.git
 ![3.png](./imgs/3.png)
 
 و شما در سمت چپ، میتوانید فایل سمت راست را ترجمه کنید.
+
+## مرحله سوم:
+ترجمه ای که کردید رو توی repo خودتون push کنید.
+
+## مرحله چهارم:
+بعد از اتمام ترجمه pull request بزنید.
+

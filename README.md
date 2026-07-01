@@ -52,7 +52,7 @@
 [فصل سیزدهم: توان](<Chapter13-Power/README.md>)
 
 
-[فصل چهاردهم: رگرسیون](<Chapter14-Regression/README.md>) (در حال ترجمه)
+[فصل چهاردهم: رگرسیون](<Chapter14-Regression/README.md>) (انجام شد.)
 
 
 [فصل پانزدهم: تحلیل واریانس](<Chapter15-Analysis Of Variance/README.md>)

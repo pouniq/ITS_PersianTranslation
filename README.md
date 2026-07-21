@@ -71,3 +71,11 @@
 
 
 
+
+کسانی که در این ترجمه مشارکت کردند:
+| name | Email | Section | 
+| ------------- | ------------- | ------------- |
+| Amir | Abdollahpora@gmail.com |  Chapter14 - Regression |
+
+
+

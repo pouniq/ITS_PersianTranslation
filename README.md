@@ -62,7 +62,7 @@
 
 
 [فصل هفدهم: خی-دو](<Chapter17-Chi Square/README.md>)
-
+(در حال انجام…)
 
 [فصل هجدهم: آزمون های بدون توزیع](<Chapter18-Distribution-Free Tests/README.md>) 
 

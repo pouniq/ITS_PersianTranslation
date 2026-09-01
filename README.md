@@ -73,9 +73,9 @@
 
 
 کسانی که در این ترجمه مشارکت کردند:
-| name | Email | Section | 
+| name | Email | Chapter | 
 | ------------- | ------------- | ------------- |
-| Amir | Abdollahpora@gmail.com |  Chapter14 - Regression |
+| Amir | Abdollahpora@gmail.com | 14,17|
 
 
 
